@@ -1,74 +1,76 @@
 {
-  "teach": [
-    {
-      "id": 2,
-      "name": "Raja Ram2",
-      "teacherid": "1234",
-      "classes": "1",
-      "section": "A"
-    },
-    {
-      "id": 5,
-      "name": "Raja Ram5",
-      "teacherid": "1234",
-      "classes": "1",
-      "section": "A"
-    },
-    {
-      "id": 6,
-      "name": "Raja Ram6",
-      "teacherid": "1234",
-      "classes": "1",
-      "section": "A"
-    },
-    {
-      "id": 7,
-      "name": "Raja Ram7",
-      "teacherid": "1234",
-      "classes": "1",
-      "section": "A"
-    },
-    {
-      "id": 9,
-      "name": "Raja Ram9",
-      "teacherid": "12333",
-      "classes": "11",
-      "section": "A"
-    },
-    {
-      "id": 10,
-      "name": "Raja Ram10",
-      "teacherid": "1234",
-      "classes": "1",
-      "section": "A"
-    },
-    {
-      "name": "Saurav Lal",
-      "teacherid": "18101105017",
-      "classes": "12",
-      "section": "S",
-      "id": 11
-    },
-    {
-      "name": "helloguys",
-      "teacherid": "1234",
-      "classes": "12",
-      "section": "Z",
-      "id": 12
-    },
-    {
-      "name": "asdsfgfh",
-      "teacherid": "12",
-      "classes": "s",
-      "section": "12",
-      "id": 13
-    },
-    {
-      "name": "fg",
-      "teacherid": "1",
-      "classes": "vb",
-      "section": "1",
-      "id": 14
-    }
-  ]
+    "teach": [
+      {
+        "id": 2,
+        "name": "Raja Ram2",
+        "teacherid": "1234",
+        "classes": "1",
+        "section": "A"
+      },
+      {
+        "id": 4,
+        "name": "Raja Ram4",
+        "teacherid": "1234",
+        "classes": "1",
+        "section": "A"
+      },
+      {
+        "id": 5,
+        "name": "Raja Ram5",
+        "teacherid": "1234",
+        "classes": "1",
+        "section": "A"
+      },
+      {
+        "id": 6,
+        "name": "Raja Ram6",
+        "teacherid": "1234",
+        "classes": "1",
+        "section": "A"
+      },
+      {
+        "id": 7,
+        "name": "Raja Ram7",
+        "teacherid": "1234",
+        "classes": "1",
+        "section": "A"
+      },
+      {
+        "id": 9,
+        "name": "Raja Ram9",
+        "teacherid": "12333",
+        "classes": "11",
+        "section": "A"
+      },
+      {
+        "id": 10,
+        "name": "Raja Ram10",
+        "teacherid": "1234",
+        "classes": "1",
+        "section": "A"
+      },
+      {
+        "name": "Saurav Lal",
+        "teacherid": "18101105017",
+        "classes": "12",
+        "section": "S",
+        "id": 11
+      },
+      {
+        "name": "Saurav Lal",
+        "teacherid": "1888",
+        "classes": "12",
+        "section": "S",
+        "id": 12
+      },
+      {
+        "name": "asdsfgfh",
+        "teacherid": "12",
+        "classes": "s",
+        "section": "12",
+        "id": 13
+      }
+    ]
+ 
 }
+    
