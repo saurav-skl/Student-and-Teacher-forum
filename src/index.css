@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+*{
+   
+    box-sizing:border-box;
+    padding:0.2rem;
+    margin:0;
+    /* /* background-color:#d2dbdd;  */
+    font-family: 'Courgette', cursive;
+}
+
+.active{
+    color:black;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(27, 2, 2);
+}
+/* .navBar{ */
+    /* background-color:rgb(97, 73, 128); */
+/* } */
+/* .Navigation_bar NavLink{
+    margin-left:2rem;
+} */
